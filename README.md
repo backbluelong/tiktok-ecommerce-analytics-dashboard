@@ -100,6 +100,16 @@ TikTok Shop / Marketing Sources
 - Improved KPI visibility for operational and campaign tracking
 - Enabled faster business monitoring and performance analysis
 - Supported data-driven optimization for Ecommerce activities
+# 📷 Dashboard Preview
+
+## Ecommerce Overview
+<img width="642" height="690" alt="image" src="https://github.com/user-attachments/assets/ac95356a-9fdc-4ad0-9877-dcccad50a35c" />
+
+## Marketing Performance
+<img width="635" height="638" alt="image" src="https://github.com/user-attachments/assets/92f41031-228f-42ad-88ec-6397f27b9c28" />
+
+## Booking Performance
+<img width="802" height="707" alt="image" src="https://github.com/user-attachments/assets/83c9c5fe-5f22-4d39-a214-ed54118136c0" />
 
 ---
 
